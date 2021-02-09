@@ -8,7 +8,7 @@ In this project, I built a simple neural network to predict daily bike rental ri
 
 ## Sample result
 
-![Alt text](src/assets/prediction.PNG?raw=true "sample prediction")
+![Alt text](src/assets/result.PNG?raw=true "sample prediction")
 
 # Technology Used
 
